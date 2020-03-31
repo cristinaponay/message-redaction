@@ -1,4 +1,4 @@
-# mMssage Redaction
+# Message Redaction
 A program that removes all desired letters from any user-entered sentence or phrase.
 
 This program...
