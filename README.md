@@ -10,3 +10,5 @@ case sensitivity, with an underscore (“_”) character.
 	
 
 The program will keep asking the user to enter a new sentence until the user enters the command ‘quit’.
+
+<img src="screenshots\1.JPG">
